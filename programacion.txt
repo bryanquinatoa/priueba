@@ -1,9 +1,0 @@
- 
-¿Qué entiende por programación orientada en objetos?
-La programación orientada a objetos trata de utilizar una visión real del mundo dentro de nuestros programas.
-Como paradigma la programación orientada a objetos se basa en 4 pilares
-Abstracción: Pensar que atributos y que métodos va tener. 
-Encapsulamiento: Se proteger la información de manipulación no autorizadas.
-Polimorfismo: Es poder dar la misma orden a diferentes objetos y que cada uno de ellos responda de su propia manera. 
-Herencia: Nos permite derivar una nueva clase a partir de una existente y también es conocida como clase hija o sub clase.
-
